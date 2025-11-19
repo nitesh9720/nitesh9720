@@ -27,6 +27,15 @@ Right now I'm sharpening my depth in event-driven systems, queues, and low-level
 
 ## 🗺️ Places I've Travelled
 
-- example: Triund  
-- example: Kedarkantha  
-- example: Rishikesh  
+- **Oct 2023** — Mathura  
+- **Jan 2024** — Jaisalmer  
+- **Jan 2025** — Jodhpur  
+- **Jan 2025** — Kumbh + Varanasi  
+- **Mar 2025** — Ujjain + Omkareshwar (Jyotirlinga)  
+- **May 2025** — Dharamshala + Triund Trek  
+- **Aug 2025** — Dwarka + Somnath  
+- **Oct 2025** — Almora  
+- **Nov 2025** — Rishikesh  
+
+**Upcoming:** Kedarkantha Trek — *Jan 2026 (planned)*
+ 
