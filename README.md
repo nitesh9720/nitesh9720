@@ -6,7 +6,8 @@ Right now I'm sharpening my depth in event-driven systems, queues, and low-level
 ---
 
 ## 🎧 Now Playing
-![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=nitesh9720&cover_image=true)
+![Now Playing](https://lastfm-recently-played.vercel.app/api?user=nitesh9720)
+
 
 ---
 
