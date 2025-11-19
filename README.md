@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Nitesh
 
-<!--
-**nitesh9720/nitesh9720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Node.js developer who likes building fast, scalable backend systems and solving real problems without overengineering.  
+Right now I'm sharpening my depth in event-driven systems, queues, and low-level internals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎧 Now Playing
+![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_LASTFM_USERNAME&cover_image=true)
+
+> Replace `YOUR_LASTFM_USERNAME` with your Last.fm username.
+
+---
+
+## ✨ About Me
+- Backend-first mindset — Node.js, Express, MongoDB, Redis, RabbitMQ  
+- Obsessed with understanding how things actually work under the hood  
+- Always experimenting with system design and improving execution speed  
+
+---
+
+## 🌍 Hobbies
+- Travelling and exploring new places  
+- Tracking my runs and pushing endurance  
+- Tech deep-dives and building small side projects fast  
+
+---
+
+## 🗺️ Places I've Travelled
+(Add your list here)
+
+- example: Triund  
+- example: Kedarkantha  
+- example: Rishikesh  
