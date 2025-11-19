@@ -6,9 +6,7 @@ Right now I'm sharpening my depth in event-driven systems, queues, and low-level
 ---
 
 ## 🎧 Now Playing
-![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_LASTFM_USERNAME&cover_image=true)
-
-> Replace `YOUR_LASTFM_USERNAME` with your Last.fm username.
+![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=nitesh9720&cover_image=true)
 
 ---
 
@@ -27,7 +25,6 @@ Right now I'm sharpening my depth in event-driven systems, queues, and low-level
 ---
 
 ## 🗺️ Places I've Travelled
-(Add your list here)
 
 - example: Triund  
 - example: Kedarkantha  
